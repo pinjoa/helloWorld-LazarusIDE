@@ -1,0 +1,12 @@
+# ignore all .exe files
+*.exe
+
+# ignore all .bak files
+*.bak
+
+# ignore all .bat files
+*.bat
+
+# ignore default project folders
+backup/
+lib/
